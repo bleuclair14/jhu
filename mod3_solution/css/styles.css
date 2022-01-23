@@ -46,15 +46,29 @@ section{
 	margin: 0,auto,0;
 }
 @media (max-width: 767px) {
-#chicken, #beef, #sushi{
+#chicken{
 	width: 300px;
 	margin-left: auto;
 	margin-right: auto;
 }
-
+#beef{
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#sushi{
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
 }
 @media (min-width: 768px) and (max-width: 991px) {
-#chicken, #beef{
+#chicken{
+	width: 320px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#beef{
 	width: 320px;
 	margin-left: auto;
 	margin-right: auto;
