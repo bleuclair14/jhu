@@ -46,7 +46,7 @@ section{
 	margin: 0,auto,0;
 }
 @media (max-width: 767px) {
-#chicken， #beef， #sushi{
+#chicken, #beef, #sushi{
 	width: 300px;
 	margin-left: auto;
 	margin-right: auto;
